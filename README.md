@@ -1,0 +1,2 @@
+# employee_management_system
+Attendance and leave management : It is completely responsive website designed using Bootstrap,PHP to mark attendance online according to log in and log out time of employees. Profile view and updates in employee are managed by Admin and leave applications are forwarded to HR. It allows the HR to view attendance, leaves of every. Employees can view their attendance and apply for leaves or check status of leave.
